@@ -1,4 +1,3 @@
-nginx
 bililive/recorder:latest
 acgnhiki/blrec
 onething1/wxedge
