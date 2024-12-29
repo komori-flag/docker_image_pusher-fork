@@ -1,3 +1,2 @@
 bililive/recorder:latest
-acgnhiki/blrec
-onething1/wxedge
+acgnhiki/blrec:latest
